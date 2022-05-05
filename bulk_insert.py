@@ -14,7 +14,7 @@ import math
 import csv
 import time
 
-file = "../Chronos Database/rawdata/compras.ComprasSemLicitacao.csv"
+file = ""
 encoding = "mbcs"  # "utf-8", " cp1252", "mbcs", "raw_unicode_escape", "utf_16_le"
 fileEngine = 'python'  # 'c', 'python'
 # delimiter = '\<\|\>'
